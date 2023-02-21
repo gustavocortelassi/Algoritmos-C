@@ -5,7 +5,7 @@ int main()
 
     double peso, altura, imc;
 
-    printf("\nEntre com o seu peso em kg: ");
+    printf("\nEntre com o seu peso em kg:  ");
     scanf("%lf", &peso);
 
     printf("Entre com a sua altura em metros: ");

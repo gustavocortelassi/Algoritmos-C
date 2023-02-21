@@ -5,7 +5,7 @@ int main()
 
     double real, dolar, cotacao;
 
-    printf("\nEntre com o valor em reais para ser convertido: ");
+    printf("\nEntre com o valor em reais para ser convertido:  ");
     scanf("%lf", &real);
 
     printf("\nEntre com a cotacao atual do dolar: ");

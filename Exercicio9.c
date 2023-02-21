@@ -4,7 +4,7 @@ int main()
 {
     double eleitores, votos_brancos, votos_nulos, votos_validos;
 
-    printf("Entre com o total de eleitores do municipio: ");
+    printf("Entre com o total de eleitores do municipio:  ");
     scanf("%lf", &eleitores);
 
     printf("Entre com o total de votos brancos do municipio: ");
